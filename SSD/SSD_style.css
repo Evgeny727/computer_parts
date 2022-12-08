@@ -211,6 +211,7 @@ section {
     position: relative;
     width: 80%;
     height: auto;
+    min-height: 70vh;
     display: flex;
     flex-direction: column;
     margin: 2rem 10%;
